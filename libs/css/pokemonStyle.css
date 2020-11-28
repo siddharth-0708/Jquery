@@ -1,0 +1,31 @@
+#mainContainer{
+background-color:skyblue;
+}
+#pokemon {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 150px;
+}
+#names {
+    display: flex;
+    flex-direction: row;
+}
+#images {
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 5px;
+    width: 110;
+    height: 110px;
+    width: 100%;
+}
+#imagesNames {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    line-height: 110px;
+    width: 110;
+    height: 110px;
+    width: 100%;
+}
